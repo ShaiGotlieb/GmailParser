@@ -1,0 +1,2 @@
+# GmailParser
+Say we had access to someone’s gmail account and we wanted to know the full transaction history(what they bought, when and where) of a user based on their emails. Build a system that allows for Gmail Oauth, and after you get an API key you parse their transactional history. Choose one/two marketplace service of which you have at least a couple of transactions in your mailbox (eBay, Amazon, Airbnb), parse the emails in the mailbox and output what the user has bought, from who, price and when.
